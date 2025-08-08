@@ -31,7 +31,7 @@ export default function Contact() {
             <br />
           <div className="flex space-x-4">
             <a
-              href="https://wa.me/50412345678"
+              href="https://wa.me/50489867943"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center bg-green-500 text-white px-4 py-2 rounded hover:bg-green-400 transition-colors"
@@ -39,6 +39,7 @@ export default function Contact() {
               <FaWhatsapp className="mr-2 h-5 w-5" />
               WhatsApp
             </a>
+            <br />
             <a
               href="https://www.facebook.com/p/La-Comilonga-100063457724115/?locale=es_LA"
               target="_blank"
@@ -48,6 +49,7 @@ export default function Contact() {
               <FaFacebook className="mr-2 h-5 w-5" />
               Facebook
             </a>
+            <br />
             <a
               href="https://www.instagram.com/la_comilonga/?hl=es"
               target="_blank"

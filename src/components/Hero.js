@@ -28,6 +28,27 @@ export default function Hero() {
         >
           Ver nuestro menú
         </Link>
+        <Link
+          href="/gallery"
+          className="mt-8 inline-block rounded-full bg-primary px-8 py-3 text-lg font-medium text-white 
+                     hover:bg-secondary transition-colors"
+        >
+          Galerias
+        </Link>
+        <Link
+          href="/testimonials"
+          className="mt-8 inline-block rounded-full bg-primary px-8 py-3 text-lg font-medium text-white 
+                     hover:bg-secondary transition-colors"
+        >
+          Testimonios
+        </Link>
+        <Link
+          href="/contact"
+          className="mt-8 inline-block rounded-full bg-primary px-8 py-3 text-lg font-medium text-white 
+                     hover:bg-secondary transition-colors"
+        >
+          Contáctanos / Pide con nosotros
+        </Link>
       </div>
     </section>
   )
