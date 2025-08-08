@@ -8,10 +8,6 @@ export default function Page() {
   return (
     <>
       <Hero />
-      <Menu />
-      <Gallery />
-      <Testimonials />
-      <Contact />
     </>
   );
 }
