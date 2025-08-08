@@ -2,6 +2,7 @@
 import { useState } from 'react';
 import Image from 'next/image';
 import menuData from '../data/menu.json';
+import Link from 'next/link'
 
 export default function Menu() {
   const [activeCategory, setActiveCategory] = useState(null);

@@ -1,7 +1,7 @@
 import ClientLayout from './ClientLayout';
 
 export const metadata = {
-  title: 'LaComilonga',
+  title: 'La Comilonga',
   description: 'El sabor que abraza cada plato',
 };
 

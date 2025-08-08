@@ -57,7 +57,7 @@ export default function Sidebar({ open, setOpen }) {
             </nav>
 
             <div className="mt-auto text-sm text-gray-400">
-              © 2025 LaComilonga
+              © 2025 La Comilonga
             </div>
           </Dialog.Panel>
         </Transition.Child>

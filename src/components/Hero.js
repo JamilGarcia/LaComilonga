@@ -7,7 +7,7 @@ export default function Hero() {
       <div className="absolute inset-0 -z-10">
         <Image
           src="/images/hero.jpg"
-          alt="LaComilonga"
+          alt="La Comilonga"
           fill
           className="object-cover object-center"
         />
@@ -16,7 +16,7 @@ export default function Hero() {
       <div className="absolute inset-0 bg-black/50" />
       <div className="relative z-10 flex flex-col items-center justify-center h-full px-6 text-center">
         <h1 className="text-5xl md:text-6xl font-extrabold text-white drop-shadow-lg">
-          LaComilonga
+          La Comilonga
         </h1>
         <p className="mt-4 text-xl md:text-2xl text-white/90 max-w-2xl drop-shadow">
           El sabor que abraza cada plato

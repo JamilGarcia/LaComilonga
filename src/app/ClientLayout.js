@@ -14,7 +14,7 @@ export default function ClientLayout({ children }) {
 
       <div className="flex-1 flex flex-col">
         <header className="flex items-center justify-between bg-white shadow p-4">
-          <h1 className="text-xl font-bold text-red-800">LaComilonga</h1>
+          <h1 className="text-xl font-bold text-red-800">La Comilonga</h1>
           <button
             onClick={() => setOpen(true)}
             className="p-2 hover:bg-gray-200 rounded"
@@ -26,7 +26,7 @@ export default function ClientLayout({ children }) {
         <main className="flex-1 overflow-auto p-4">{children}</main>
 
         <footer className="hidden lg:block bg-white border-t p-4 text-center text-sm text-gray-500">
-          © 2025 LaComilonga
+          © 2025 La Comilonga
         </footer>
       </div>
     </div>
