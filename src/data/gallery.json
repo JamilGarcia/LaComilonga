@@ -1,0 +1,11 @@
+[
+  { "id": 1, "src": "/images/moments.jpg", "alt": "Interior del restaurante" },
+  { "id": 2, "src": "/images/moments2.jpg", "alt": "Plato destacado" },
+  { "id": 3, "src": "/images/moments3.jpg", "alt": "Ambiente acogedor" },
+  { "id": 4, "src": "/images/moments4.jpg", "alt": "Detalle de la mesa" },
+  { "id": 5, "src": "/images/moments5.jpg", "alt": "Clientes disfrutando" },
+  { "id": 6, "src": "/images/moments6.jpg", "alt": "Barra de bebidas" },
+  { "id": 7, "src": "/images/moments7.jpg", "alt": "Barra de bebidas" },
+  { "id": 8, "src": "/images/moments8.jpg", "alt": "Barra de bebidas" },
+  { "id": 9, "src": "/images/moments9.jpg", "alt": "Barra de bebidas" }
+]

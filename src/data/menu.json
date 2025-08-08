@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "category": "Tipico",
+    "name": "Desayuno / Cena Tipica",
+    "description": "Deliciosa desayuno o cena con huevo a su gusto, acompañadda con plátano frito, queso, copetines, frijoles fritos, mantequilla y tortillas.",
+    "price": "L.110",
+    "image": "/images/comida.jpg"
+  },
+  {
+    "id": 2,
+    "category": "Almuerzos",
+    "name": "Pollo a la plancha",
+    "description": "Delicioso pollo a la plancha sobre una cama de tajadas recién hechas acompañadas de frijolitos fritos, ensalada dde repollo y encurtido. ",
+    "price": "L.140",
+    "image": "/images/comida2.jpg"
+  },
+  {
+    "id": 3,
+    "category": "Tipico",
+    "name": "Baleada Sencilla",
+    "description": "Exquisitas tortillas de harina hechas al momento, con frijoles fritos, queso rayado y mantequilla.",
+    "price": "L.22",
+    "image": "/images/comida3.jpg"
+  },
+  {
+    "id": 4,
+    "category": "Tipico",
+    "name": "Baleada Con Huevo",
+    "description": "Exquisitas tortillas de harina, con huevo picado, frijoles fritos, queso rayado y mantequilla.",
+    "price": "L.30",
+    "image": "/images/comida3.jpg"
+  },
+  {
+    "id": 5,
+    "category": "Tipico",
+    "name": "Burrita Montada",
+    "description": "Una burrita titpica con el toque de La Comilonga",
+    "price": "L.55",
+    "image": "/images/comida4.jpg"
+  },
+  {
+    "id": 6,
+    "category": "Desayuno",
+    "name": "Waffle",
+    "description": "Un esponjoso y suaves waffles espolvoreado con azúcar glass y acompañaddo con miel de Maple.",
+    "price": "L.65",
+    "image": "/images/comida5.jpg"
+  },
+  {
+    "id": 7,
+    "category": "Pollo",
+    "name": "Boneless de pollo con papas fritas",
+    "description": "Pechuguitas de pollo empanizadas + salsa mostaza",
+    "price": "L.140",
+    "image": "/images/comida6.jpg"
+  },
+  {
+    "id": 8,
+    "category": "Pollo",
+    "name": "Alitas con papas",
+    "description": "6 alitas fritas bañadas en salsa BBQ, Picante o solo fritas, acompañadas con nuestras deliciosas papas fritas y una exquisita salsa de la casa",
+    "price": "L.135",
+    "image": "/images/comida7.jpg"
+  },
+  {
+    "id": 9,
+    "category": "Tacos",
+    "name": "Papagayo",
+    "description": "Taco de tortilla de harina con la carne de tu eleccion pollo o res, lechuga, chismol y la sasa blanca de la casa.",
+    "price": "L.80",
+    "image": "/images/comida8.jpg"
+  },
+  {
+    "id": 10,
+    "category": "Almuerzos",
+    "name": "Chuleta con tajadas",
+    "description": "La tradicional chuleta con tajadas aderezo, ensalada, encurtiddo y frijolitos bien fritos.",
+    "price": "L.140",
+    "image": "/images/comida9.jpg"
+  },
+  {
+    "id": 11,
+    "category": "Tacos",
+    "name": "Flautas de Pollo",
+    "description": "Deliciosos tacos con tortilla de harina rellenas de pollo guisadito con el sabor de la casa.",
+    "price": "L.135",
+    "image": "/images/comida10.jpg"
+  },
+  {
+    "id": 12,
+    "category": "Pollo",
+    "name": "Pollo chuco pierna muslo",
+    "description": "Delicioso pollo recién frito con tajadas y suculentas salsa para finalizar en un delicioso pollo chuco",
+    "price": "L.135",
+    "image": "/images/comida11.jpg"
+  },
+  {
+    "id": 13,
+    "category": "Tipico",
+    "name": "Plátano entero frito",
+    "description": "Con frijoles fritos y mantequilla.",
+    "price": "L.45",
+    "image": "/images/comida12.jpg"
+  },
+  {
+    "id": 14,
+    "category": "Tacos",
+    "name": "3 Tacos de pollo",
+    "description": "Deliciosos tacos de pollo fritos acompañadddos con ensalada de repollo, encurtido, salsa y queso.",
+    "price": "L.105",
+    "image": "/images/comida13.jpg"
+  },
+  {
+    "id": 15,
+    "category": "Tipico",
+    "name": "Las Poderosas Con Quesillo",
+    "description": "Unas poderosas tortillas con quesillo que en su pecho lleva frijolitos fritos, huevo picado, salsa y queso. ",
+    "price": "L.80",
+    "image": "/images/comida14.jpg"
+  },
+  {
+    "id": 16,
+    "category": "Desayuno",
+    "name": "Panqueques",
+    "description": "3 esponjosos y suaves panqueques acompañado de mantequilla crema y miel de maple.",
+    "price": "L.65",
+    "image": "/images/comida15.jpg"
+  },{
+    "id": 17,
+    "category": "Sandwiches/Hamburguesas",
+    "name": "Hamburguesa con papas",
+    "description": "Una hamburguesa con 100% carne de res con el estilo único de La Comilonga.",
+    "price": "L.150",
+    "image": "/images/comida16.jpg"
+  },{
+    "id": 18,
+    "category": "Tipico",
+    "name": "Tipico de Chorizo",
+    "description": "Delicioso chorizo BBQ sobre una cama de tajaditas recién hechas chimol y aderezo acompañado de frijolitos fritos ensalada de repollo y encurtido. ",
+    "price": "L.140",
+    "image": "/images/comida17.jpg"
+  },{
+    "id": 19,
+    "category": "Tipico",
+    "name": "Tajadas con Carne",
+    "description": "Tajadas de guineo verde recién hechas con carne ensaladas de repollo y salsa roja de la casa. ",
+    "price": "L.95",
+    "image": "/images/comida18.jpg"
+  },{
+    "id": 20,
+    "category": "Tipico",
+    "name": "Chilaquiles de pollo",
+    "description": "Deliciosas tortillas chip con frijoles pollo demenuzado chimol y el toque de nuestra salsa blanca.",
+    "price": "L.110",
+    "image": "/images/comida19.jpg"
+  },{
+    "id": 21,
+    "category": "Tipico",
+    "name": "Enchiladas",
+    "description": "Enchiladas de pollo o de res.",
+    "price": "L.75",
+    "image": "/images/comida20.jpg"
+  },{
+    "id": 22,
+    "category": "Almuerzos",
+    "name": "Choripapas Sazonadas",
+    "description": "Tiernas papitas sazonadas con un poderoso chorizo barbacoa en tiritas el aderezo de la casa acompañado con queso chedar.",
+    "price": "L.95",
+    "image": "/images/comida21.jpg"
+  },
+  {
+    "id": 23,
+    "category": "Pollo",
+    "name": "Pollo chuco pechuga ala",
+    "description": "Delicioso pollo recién frito con tajadas y suculentas salsa para finalizar en un delicioso pollo chuco.",
+    "price": "L.145",
+    "image": "/images/comida22.jpg"
+  },
+  {
+    "id": 24,
+    "category": "Sandwiches/Hamburguesas",
+    "name": "Club Sandwich",
+    "description": "Un club hecho con pechuga de pollo a la plancha queso fundido tomate lechuga y cebolla.",
+    "price": "L.145",
+    "image": "/images/comida23.jpg"
+  }
+]
